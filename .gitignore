@@ -1,2 +1,8 @@
 # output folder
 output/
+venv/
+.idea/
+deep_sort/__pycache__/
+deep_sort/sort/__pycache__/
+deep_sort/deep/__pycache__/
+.vim/
